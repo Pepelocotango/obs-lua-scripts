@@ -63,3 +63,7 @@ Les contribucions són benvingudes! Si tens alguna idea per millorar aquests scr
 ---
 
 Esperem que aquests scripts millorin la teva experiència amb OBS Studio en les teves presentacions en viu!
+
+## Agraïments
+
+Aquest projecte utilitza codi del [OBS-next-scene-hotkey](https://github.com/SimonGZ/OBS-next-scene-hotkey) de SimonGZ, sota llicència MIT.
