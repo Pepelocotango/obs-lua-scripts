@@ -67,3 +67,7 @@ Esperem que aquests scripts millorin la teva experiència amb OBS Studio en les 
 ## Agraïments
 
 Aquest projecte utilitza codi del [OBS-next-scene-hotkey](https://github.com/SimonGZ/OBS-next-scene-hotkey) de SimonGZ, sota llicència MIT.
+---------------------------------------------------------------------------------
+## Acknowledgments
+
+This project uses code from [OBS-next-scene-hotkey](https://github.com/SimonGZ/OBS-next-scene-hotkey) by SimonGZ, under the MIT license.
