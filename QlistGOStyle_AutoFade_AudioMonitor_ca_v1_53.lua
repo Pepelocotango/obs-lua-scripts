@@ -7,6 +7,11 @@
 -- 3. Monitorització Automàtica: Configura automàticament la monitorització d'àudio per a noves fonts.
 -- Autor: [Pëp]
 -- Última actualització: [29/10/24]
+-----------------------------------------------
+-- This script includes code from OBS-next-scene-hotkey by SimonGZ
+-- https://github.com/SimonGZ/OBS-next-scene-hotkey
+-- MIT License: https://github.com/SimonGZ/OBS-next-scene-hotkey/blob/master/LICENSE
+------------------------------------------------------------
 obs = obslua
 
 -- Control de logging
