@@ -1,4 +1,4 @@
--- Adjust image or video to screen_en_v1_7_EN
+-- Adjust image or video to screen_v1_7_EN
 -- Version: 1.7
 -- Script designed for use with OBS in live productions.
 -- Features: 
