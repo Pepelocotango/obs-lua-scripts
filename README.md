@@ -15,7 +15,6 @@ This script automatically adjusts image and video sources to fit the OBS screen,
 **Main features:**
 - Automatic adjustment of image and video sources to the screen
 - Works with scene changes
-- Configurable check interval
 
 ### 2. QlistGOStyle AutoFade AudioMonitor (v1.53)
 
@@ -88,7 +87,6 @@ Aquest script ajusta automàticament les fonts d'imatge i vídeo perquè s'adapt
 **Característiques principals:**
 - Ajust automàtic de fonts d'imatge i vídeo a la pantalla
 - Funciona amb canvis d'escena
-- Configuració d'interval de comprovació
 
 ### 2. QlistGOStyle AutoFade AudioMonitor (v1.53)
 
@@ -142,4 +140,3 @@ Esperem que aquests scripts millorin la teva experiència amb OBS Studio en les 
 ## Agraïments
 
 Aquest projecte utilitza codi del [OBS-next-scene-hotkey](https://github.com/SimonGZ/OBS-next-scene-hotkey) de SimonGZ, sota llicència MIT.
-
