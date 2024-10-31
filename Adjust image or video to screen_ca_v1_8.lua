@@ -4,7 +4,7 @@
 -- Funcionalitats: 
 -- 1. Ajusta automàticament les fonts de vídeo i imatge a la pantalla només si no han estat ajustades prèviament cada vegada que fem una transicio.
 -- Autor: [Pëp]
--- Última actualització: [29/10/24]
+-- Última actualització: [31/10/24]
 
 obs = obslua
 
