@@ -8,7 +8,7 @@ This repository contains two Lua scripts designed to enhance the user experience
 
 ## Included Scripts
 
-### 1. Adjust image or video to screen (v1.7)
+### 1. Adjust image or video to screen (v1.8)
 
 This script automatically adjusts image and video sources to fit the OBS screen, ensuring optimal visual presentation during live events.
 
@@ -80,7 +80,7 @@ Aquest repositori conté dos scripts Lua dissenyats per millorar l'experiència 
 
 ## Scripts Inclosos
 
-### 1. Adjust image or video to screen (v1.7)
+### 1. Adjust image or video to screen (v1.8)
 
 Aquest script ajusta automàticament les fonts d'imatge i vídeo perquè s'adaptin a la pantalla d'OBS, garantint una presentació visual òptima durant els esdeveniments en viu.
 
